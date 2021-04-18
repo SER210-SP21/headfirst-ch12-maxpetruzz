@@ -14,5 +14,4 @@
         app:showAsAction="ifRoom"
         app:actionProviderClass="androidx.appcompat.widget.ShareActionProvider"/>
 
-
 </menu>
